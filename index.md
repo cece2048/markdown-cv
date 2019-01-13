@@ -5,14 +5,10 @@ title: Riley Chou's CV
 # Riley Chou
 Software engineer with 2 years experience
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="stackoverflow">
+<a href="https://stackoverflow.com/users/7041254/riley2048">https://stackoverflow.com/users/7041254/riley2048</a>
+| <a href="https://github.com/reiley2048">my github</a>
 </div>
-
-## Currently
-
-Boya Inc.
 
 ## Professional Experience
 
@@ -52,7 +48,7 @@ UI written in JavaFX, front-end for placing orders to backend stock trading syst
 
 ## Key Skills
 _JAVA_
-- Two year experience in working with Java. I’m familiar with the OO concept. And also I had experiences in Spring framework, servlet, Java Swing and Javafx GUI.
+- Two year experience in working with Java. I’m familiar with the OO concept. And also I had experiences in Spring framework, servlet, building reactive microservices RxJava.
 
 _LINUX_
 - Experience in writing Linux scripts,mostly script to help deploy product in Linux server.
