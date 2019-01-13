@@ -6,7 +6,7 @@ title: Riley Chou's CV
 Software engineer with 2 years experience
 
 <div id="stackoverflow">
-<a href="https://stackoverflow.com/users/7041254/riley2048">https://stackoverflow.com/users/7041254/riley2048</a>
+<a href="https://stackoverflow.com/users/7041254/riley2048">stackoverflow site</a>
 | <a href="https://github.com/reiley2048">my github</a>
 </div>
 
