@@ -3,11 +3,11 @@ layout: cv
 title: Riley Chou's CV
 ---
 # Riley Chou
-- Software engineer with 2 years experience.
-- Financial related experiences (visa, master, 
+- Software engineer with 2 years experience, experienced in implementing multi-threaded, large-scale, responsive microservices.
+- Financial related experiences (financial transaction message exchange, stock trade system domain knowledge)
 - I really enjoy turning abstract concept into concrete, elegent, readable architecture. so it would be a big 
 <div id="webaddress">
-<a href="https://stackoverflow.com/users/7041254/riley2048">stackoverflow site</a>
+<a href="https://stackoverflow.com/users/7041254/riley2048">stackoverflow</a>
 |<a href="https://github.com/reiley2048"> github</a>
 </div>
 
@@ -23,10 +23,8 @@ _Boya Inc, Software Engineer_
 
 _The Syscom group, Software Engineer_
 
-- Setup an one-click building environment in Jenkins platform for my team, which saves a lot of time in development.
-- Developing and maintaining systems.
-- Writing unit test.
-- Finalcial related function develop (
+- Setup CI/CD workflow with Gitlab, Jenkins and Docker. Integrating modules in variety languages into one building workflow, which also deploy end product into different server enviroment including linux and windows.
+- Involving in develope large-scale,  stock trading software system
 
 ## Education
 
