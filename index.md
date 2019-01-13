@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Riley Chou's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Riley Chou
+Software engineer with 2 years experience
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
