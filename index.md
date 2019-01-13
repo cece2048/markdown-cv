@@ -4,12 +4,11 @@ title: Riley Chou's CV
 ---
 # Riley Chou
 - Software engineer with 2 years experience.
-- I really enjoy turning abstract concept into concrete, elegent, readable architecture.
 - Financial related experiences (visa, master, 
-
-<div id="stackoverflow">
+- I really enjoy turning abstract concept into concrete, elegent, readable architecture. so it would be a big 
+<div id="webaddress">
 <a href="https://stackoverflow.com/users/7041254/riley2048">stackoverflow site</a>
-| <a href="https://github.com/reiley2048">my github</a>
+|<a href="https://github.com/reiley2048"> github</a>
 </div>
 
 ## Professional Experience
