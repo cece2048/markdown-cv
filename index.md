@@ -50,47 +50,19 @@ _UI For Trading System_
 
 UI written in JavaFX, front-end for placing orders to backend stock trading system.
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Key Skills
+_JAVA_
+- Two year experience in working with Java. I’m familiar with the OO concept. And also I had experiences in Spring framework, servlet, Java Swing and Javafx GUI.
+_LINUX_
+- Experience in writing Linux scripts,mostly script to help deploy product in Linux server.
+_JENKINS_
+- Setup and maintaining CI/CD system with Jenkins, create Jenkins custom plugin to
+customize deployment process and write pipeline building script.
+_SQL_
+- Experience in working with Mysql, PostgreSQL, SQLserver. 
+- Redis 
+_OpenCV_
+- Experience in using OpenCV as a tool to track human's pupils movement via webcam and after we got pupils location data, then calculate their relative vector to decide if the person's gaze is fixated at a point in the screen or not. This is truly a difficult challenge for me at the time, because back then I have zero knowledge about Computer vision and video/audio processing, but through a lot of researching and paper reading, we still managed to delivery the prototype on time.
 
 <!-- ### Footer
 
