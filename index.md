@@ -3,7 +3,9 @@ layout: cv
 title: Riley Chou's CV
 ---
 # Riley Chou
-Software engineer with 2 years experience
+- Software engineer with 2 years experience.
+- I really enjoy turning abstract concept into concrete, elegent, readable architecture.
+- Financial related experiences (visa, master, 
 
 <div id="stackoverflow">
 <a href="https://stackoverflow.com/users/7041254/riley2048">stackoverflow site</a>
@@ -25,6 +27,7 @@ _The Syscom group, Software Engineer_
 - Setup an one-click building environment in Jenkins platform for my team, which saves a lot of time in development.
 - Developing and maintaining systems.
 - Writing unit test.
+- Finalcial related function develop (
 
 ## Education
 
