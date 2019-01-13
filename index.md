@@ -10,37 +10,45 @@ Software engineer with 2 years experience
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
-
 ## Currently
 
-Standing on the shoulders of giants
+Boya Inc.
 
-### Specialized in
+## Professional Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2018 - Present`
 
+_Boya Inc, Software Engineer_
 
-### Research interests
+- crawling system
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2016 - 2018`
 
+_The Syscom group, Software Engineer_
+
+- Setup an one-click building environment in Jenkins platform for my team, which saves a lot of time in development.
+- Developing and maintaining systems.
+- Writing unit test.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012 - 2016`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+_Bachelor of Imformation Management, National Dong Hwa University_
 
-- Sizar
+## Projects
 
-`1667 - death`
-__Trinity College, Cambridge__
+_R6DBWebservice_
 
-- Fellow
+A middle layer webservice to help APP frontend communicate with Cobol backend.
 
+_ISO8583 Parser_
 
+ISO8583 is a standard digital format using in financial transaction, this parser construct message that's in ISO8583 format from other format and vice versa
+
+_UI For Trading System_
+
+UI written in JavaFX, front-end for placing orders to backend stock trading system.
 
 ## Awards
 
