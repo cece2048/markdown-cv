@@ -3,9 +3,14 @@ layout: cv
 title: Riley Chou's CV
 ---
 # Riley Chou
-- Software engineer with 2 years experience, experienced in implementing multi-threaded, large-scale, responsive microservices.
-- Financial related experiences (financial transaction message exchange, stock trade system domain knowledge)
-- I really enjoy turning abstract concept into concrete, elegent, readable architecture. so it would be a big 
+-------
+- Software engineer with 2 years experience
+- Experienced in implementing multi-threaded, large-scale, responsive microservices.
+- Financial related experiences
+<br/>(financial transaction message exchange, stock trade system domain knowledge)
+- I really enjoy turning abstract concept into concrete, elegent, readable architecture.
+<br/> Likes to follow the technology trend by blog and pocast in my free time, 
+<br/> occasionally reading some books about software design, reverse engineer and neural network.
 <div id="webaddress">
 <a href="https://stackoverflow.com/users/7041254/riley2048">stackoverflow</a>
 |<a href="https://github.com/reiley2048"> github</a>
@@ -17,14 +22,21 @@ title: Riley Chou's CV
 
 _Boya Inc, Software Engineer_
 
-- crawling system
+- I'm incharge of developing and maintaining the website crawling system, 
+the goal here is to crawling for a specific information in variety URL, 
+then actively send those information to registed consumers in the minimum time,
+<br/> the diffucalty of the crawling website is that these days most of the them are generated dynamicly, 
+<br/> sometimes they denided request from non-browser client to prevent DDOS attack and crawlers,
+<br/> 
+
+<br/>
 
 `2016 - 2018`
 
 _The Syscom group, Software Engineer_
 
 - Setup CI/CD workflow with Gitlab, Jenkins and Docker. Integrating modules in variety languages into one building workflow, which also deploy end product into different server enviroment including linux and windows.
-- Involving in develope large-scale,  stock trading software system
+- Involving in develope large-scale stock trading software system
 
 ## Education
 
