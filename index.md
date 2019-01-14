@@ -45,7 +45,7 @@ _The Syscom group, Software Engineer_
 3. Integration and testing: makes tools to help integration test (setup IT enviroments)
 4. Deployment: depoly final product to clients, and help tranning them with the system knowledge, make trainning documents.
 5. Maintenance: cooperate the clients, help them solving the obstacles.
-
+<br/>In all of those phases, I think the most difficult part for me is to cooperate with the clients, not only I have to be able to communicate the people in different domain (sometimes have no technology background), also I have to be careful about not promising for the services outside of our contract, that's some advanced humand interaction techniques for me, but I learn how to do that by watching my coworker doing that, they show me how to nicely initiate efficient communications.
 
 ## Education
 
@@ -58,6 +58,7 @@ _Bachelor of Imformation Management, National Dong Hwa University_
 _R6DBWebservice_
 
 A middle layer webservice to help APP frontend communicate with Cobol backend.
+<br/>
 
 _ISO8583 Parser_
 
