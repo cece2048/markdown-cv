@@ -26,8 +26,8 @@ _Boya Inc, Software Engineer_
 the goal here is to crawling for a specific information in variety URL, 
 then actively send those information to registed consumers in the minimum time,
 <br/> the diffucalty of the crawling website is that these days most of the them are generated dynamicly, 
-<br/> sometimes they denided request from non-browser client to prevent DDOS attack and crawlers,
-<br/> 
+<br/> sometimes they also denided request from non-browser client to prevent DDOS attack and crawlers,
+<br/> in that case we need to come up with some workaroud like mock a reqular http request with selenium or chromium.
 
 <br/>
 
@@ -35,8 +35,17 @@ then actively send those information to registed consumers in the minimum time,
 
 _The Syscom group, Software Engineer_
 
-- Setup CI/CD workflow with Gitlab, Jenkins and Docker. Integrating modules in variety languages into one building workflow, which also deploy end product into different server enviroment including linux and windows.
-- Involving in develope large-scale stock trading software system
+- Setup CI/CD workflow with Gitlab, Jenkins and Docker. 
+  <br/>Integrating modules in variety languages into one building workflow, which also deploy end product into different     server enviroment including linux and windows.
+- Involving in develope large-scale stock trading software system, with average a million request daily. 
+<br/>The most crucial aspect of the stock trading system is time efficiency, we have to deliver the request to trading center faster than other competitor, so our entire design is mostly focused on reducing the processing time. 
+<br/>Since we are a small team, so I have been invoving in a lot of the lifecycle phases:
+1. Systems design: brainstorming and survey the strategies to minimize processing time
+2. Development: implementing function without big framework like Spring (annotation monitoring might cost time)
+3. Integration and testing: makes tools to help integration test (setup IT enviroments)
+4. Deployment: depoly final product to clients, and help tranning them with the system knowledge, make trainning documents.
+5. Maintenance: cooperate the clients, help them solving the obstacles.
+
 
 ## Education
 
