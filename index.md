@@ -58,11 +58,14 @@ _Bachelor of Imformation Management, National Dong Hwa University_
 _R6DBWebservice_
 
 A middle layer webservice to help APP frontend communicate with Cobol backend.
-<br/>
+<br/>Sending encrypted, signed Https requests to bank server. 
+<br/>I learned how to cusomized block padding for encrytion, secure Keys by storing them in HSM server, 
+<br/>initiate secure money transfer Https request to bank, and the message transfer workflow in bank.
 
 _ISO8583 Parser_
 
-ISO8583 is a standard digital format using in financial transaction, this parser construct message that's in ISO8583 format from other format and vice versa
+ISO8583 is a standard digital format using in financial transaction, this parser construct message that's in ISO8583 format from other format and vice versa.
+<br/>I learned how financial transaction got initiated, processed, eventually realized in this project.
 
 _UI For Trading System_
 
