@@ -4,7 +4,7 @@ title: Riley Chou's CV
 ---
 # Riley Chou    
 <br/>
-- Software engineer with 2 years experience
+- Software engineer with 2 years experience <br/>
 - Experienced in implementing multi-threaded, large-scale, responsive microservices.
 - Financial related experiences
 <br/>(financial transaction message exchange, stock trade system domain knowledge)
