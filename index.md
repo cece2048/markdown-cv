@@ -12,7 +12,8 @@ title: Riley Chou's CV
   Likes to follow the technology trend by blog and podcast in my free time, <br/>
   occasionally reading some books about software design, reverse engineer and neural network.
 <div id="webaddress">
-<a href="https://github.com/reiley2048"> https://github.com/reiley2048</a> | <a href="https://stackoverflow.com/users/7041254/riley2048">https://stackoverflow.com/users/7041254/riley2048</a>
+<a href="https://github.com/reiley2048"> https://github.com/reiley2048</a> 
+	| <a href="https://stackoverflow.com/users/7041254/riley2048">https://stackoverflow.com/users/7041254/riley2048</a>
 </div>
 
 ## Professional Experience
@@ -24,8 +25,11 @@ _Boya Inc, Software Engineer_
 I'm incharge of developing and maintaining the website crawling system, 
 the goal here is to crawling for a specific information in variety URL, 
 then actively send those information to registed consumers in minimum time.<br>
-The diffucalty of the crawling website is that these days most of the them are generated dynamicly, sometimes they also denided request from non-browser client to prevent DDOS attack and crawlers.<br/>
-In that case we need to come up with some workaround like mock a regular http request with selenium or headless-chrome.
+The diffucalty of the crawling website is that these days most of the them are 
+generated dynamicly, sometimes they also denided request from non-browser client 
+to prevent DDOS attack and crawlers.
+In that case we need to come up with some workaround like mock a regular 
+http request with selenium or headless-chrome.
 
 <br/>
 
@@ -44,7 +48,8 @@ the request to trading center faster than other competitor, so our entire design
 	2. Development: implementing function without big framework like Spring <br/>
 	(annotation monitoring cost time)
 	3. Integration and testing: makes tools to help integration test (setup IT enviroments)
-	4. Deployment: deploy final product to clients, and help tranning them with the system <br/>knowledge, make trainning documents.
+	4. Deployment: deploy final product to clients, and help tranning them with the system 
+		knowledge, make trainning documents.
 	5. Maintenance: cooperate the clients, help them solving the obstacles.
 <br/>In all of those phases, I think the most difficult part for me is to cooperate with the clients, I have to be able to communicate the people in different domain (sometimes have no technology background), also I have to be careful about not promising for the services outside of our contract, that's some advanced human interaction techniques to me, but I learn how to do that by mimicking my co-works, they show me how to nicely initiate efficient communications.
 
