@@ -7,7 +7,7 @@ title: Riley Chou's CV
 - Software engineer with 2 years experience <br/>
 - Experienced in implementing multi-threaded, large-scale, responsive microservices. <br/>
 - Financial related experiences
-<br/>(financial transaction message exchange, stock trade system domain knowledge)
+<br/>(financial transaction message exchange, stock trade system domain knowledge)<br/>
 - I enjoy turning abstract concept into concrete, elegent, readable architecture.<br/>
   Likes to follow the technology trend by blog and podcast in my free time, <br/>
   occasionally reading some books about software design, reverse engineer and neural network.
