@@ -12,7 +12,7 @@ title: Riley Chou's CV
   Likes to follow the technology trend by blog and podcast in my free time, <br/>
   occasionally reading some books about software design, reverse engineer and neural network.
 <div id="webaddress">
-<a href="https://github.com/reiley2048"> https://github.com/reiley2048</a> 
+<a href="https://github.com/reiley2048"> https://github.com/reiley2048</a> <br/>
 	| <a href="https://stackoverflow.com/users/7041254/riley2048">https://stackoverflow.com/users/7041254/riley2048</a>
 </div>
 
