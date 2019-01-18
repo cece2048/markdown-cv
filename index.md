@@ -38,19 +38,15 @@ Integrating modules in variety languages into one building workflow, <br/>
 which also deploy end product into different server including linux and windows.
 - Involving in develope large-scale stock trading software system, with average a million request daily. <br/>
 The most crucial aspect of the stock trading system is time efficiency, we have to deliver <br/>
-the request to trading center faster than other competitor, so our entire design is mostly <br/>focused on reducing the processing time. 
-<br/>Since we are a small team, so I have been involving in a lot of the lifecycle phases:
+the request to trading center faster than other competitor, so our entire design is mostly focused on reducing the processing time. 
+	Since we are a small team, so I have been involving in a lot of the lifecycle phases:
 	1. Systems design: brainstorming and survey the strategies to minimize processing time
 	2. Development: implementing function without big framework like Spring <br/>
 	(annotation monitoring cost time)
 	3. Integration and testing: makes tools to help integration test (setup IT enviroments)
 	4. Deployment: deploy final product to clients, and help tranning them with the system <br/>knowledge, make trainning documents.
 	5. Maintenance: cooperate the clients, help them solving the obstacles.
-<br/>In all of those phases, I think the most difficult part for me is to cooperate with  <br/>
-the clients, not only I have to be able to communicate the people in different domain  <br/>
-(sometimes have no technology background), also I have to be careful about not promising  <br/>
-for the services outside of our contract, that's some advanced human interaction techniques <br/>
-to me, but I learn how to do that by watching my coworker doing that, they show me how to <br/>nicely initiate efficient communications.
+<br/>In all of those phases, I think the most difficult part for me is to cooperate with the clients, I have to be able to communicate the people in different domain (sometimes have no technology background), also I have to be careful about not promising for the services outside of our contract, that's some advanced human interaction techniques to me, but I learn how to do that by mimicking my co-works, they show me how to nicely initiate efficient communications.
 
 ## Education
 
