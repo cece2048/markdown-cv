@@ -13,6 +13,26 @@ title: Cecelia Chou's CV
 	| <a href="https://stackoverflow.com/users/7041254/cece2048">StackOverflow page</a>
 </div>
 
+## Key Skills
+_HUMAN LANGUAGE_
+- Native Mandarin speaker.
+- Fluent in English.
+
+_JAVA_
+- Three-year experience in Java. Familiar with the OO concept. <br/>
+Spring framework, Spring boot, Mybatis, Redis.
+
+_KOTLIN_
+
+_LINUX_
+- Experience in writing Shell scripts, mostly script to help deploy the product in the Linux server.
+
+_JENKINS_
+- Setup and maintaining the CI/CD system with Jenkins, create Jenkins custom plugin to customize the deployment process and write pipeline building script.
+
+_SQL_
+- Experience in working with Mysql, PostgreSQL, SQLserver. Also in memory DB: Redis 
+
 ## Professional Experience
 `2019/03 - present`
 
@@ -65,21 +85,6 @@ _Slack bots_
 
 A slack bot that sends notifications to slack users, showing system data diagram and interact with the system.
 
-## Key Skills
-_JAVA_
-- Two-year experience in Java. Familiar with the OO concept. <br/>
-Spring framework, Spring boot, Mybatis, Redis.
-
-_KOTLIN_
-
-_LINUX_
-- Experience in writing Shell scripts, mostly script to help deploy the product in the Linux server.
-
-_JENKINS_
-- Setup and maintaining the CI/CD system with Jenkins, create Jenkins custom plugin to customize the deployment process and write pipeline building script.
-
-_SQL_
-- Experience in working with Mysql, PostgreSQL, SQLserver. Also in memory DB: Redis 
 
 <!-- ### Footer
 
