@@ -69,7 +69,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 60%;
+	width: 55%;
 }
 
 code {
@@ -90,7 +90,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 55%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -112,7 +112,7 @@ li {
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
+	width: 55%;
 	margin-top: 0.25em;
 }
 
